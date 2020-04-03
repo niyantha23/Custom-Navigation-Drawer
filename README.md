@@ -6,3 +6,4 @@ They can either be permanently on-screen or controlled by a navigation menu icon
 This repository contains required files xml,java to create a custom Navigation Drawer in Android.
 The following screenshot shows the Navigation Drawer exmaple in this repo
 
+![](https://github.com/niyantha23/Custom-Navigation-Drawer/blob/master/final%20sc.png)
